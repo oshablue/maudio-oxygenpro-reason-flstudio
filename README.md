@@ -4,11 +4,15 @@ Maps in FL Studio 2026 the MIDI messages for transport control as tested on the 
 
 Transport control means like play, stop, forward, backward, loop, and record.
 
-Use of AI Disclosure: Several conversations with Gemini, Gemini AI searches to get to links at Image-line, help with MIDI messages, and generated example code.
+With various stock or out-of-the-box controller profiles in FL Studio 2026, the M-Audio Oxygen Pro 49 Play and Stop buttons do function as expected, mostly, when set to DAW mode FL Studio. **BUT** the other transport controls do not. Plus, generally speaking, it is nice to get as many control buttons mapped as possible and or to be able to customize them.
+
+Kudos to Image-Line for many reasons, but for the case here, the kudos are for implementing a Python API! Way to go! For real. It adds a whole new level of operability and tool refinement.
+
+*Use of AI Disclosure: Several conversations with Gemini, Gemini AI searches to get to links at Image-line, help with MIDI messages, and generated example code.*
 
 ## Inspiration & Acknowledgments
 
-Inspired by the community scripts for the Oxygen Pro in FL Studio, this repository is a completely independent, open-source rewrite designed to implement a simple custom mapping profile targeting the Oxygen Pro 49 set to DAW REASON mode for use in FL Studio 2026 on Mac aka macos."
+Inspired by the community scripts for the Oxygen Pro in FL Studio, this repository is a completely independent, open-source rewrite designed to implement a simple custom mapping profile targeting the Oxygen Pro 49 set to DAW REASON mode for use in FL Studio 2026 on Mac aka macos.
 
 * [Official Image-Line MIDI Scripting API](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm) - Image-Line's official python framework documentation
 * [M-Audio Oxygen Pro Script by GratuiTous](https://itsgratuitous.com) - see Premium additional scripts and other FL Studio tutorials and books there too.
