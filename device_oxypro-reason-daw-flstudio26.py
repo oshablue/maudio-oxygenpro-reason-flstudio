@@ -1,5 +1,7 @@
-# name=OXYGENPRO-XPORT-OBL # that is for FL Studio to list this profile when it parses the available profiles on startup
-#
+# name=OXYGENPRO-XPORT-OBL
+# url=https://github.com/oshablue/maudio-oxygenpro-reason-flstudio
+
+# Header above is required to be parsed into the list of profile options, at least name and url
 # @oshablue on github
 # Please see README.md in this repo
 #

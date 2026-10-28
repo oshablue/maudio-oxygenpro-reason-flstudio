@@ -4,6 +4,8 @@ Maps in FL Studio 2026 the MIDI messages for transport control as tested on the 
 
 Transport control means like play, stop, forward, backward, loop, and record.
 
+![OxyPro49 set to our custom script for transport controls](doc/asset/small-op49-xport-custom.png)
+
 With various stock or out-of-the-box controller profiles in FL Studio 2026, the M-Audio Oxygen Pro 49 Play and Stop buttons do function as expected, mostly, when set to DAW mode FL Studio. **BUT** the other transport controls do not. Plus, generally speaking, it is nice to get as many control buttons mapped as possible and or to be able to customize them.
 
 Kudos to Image-Line for many reasons, but for the case here, the kudos are for implementing a Python API! Way to go! For real. It adds a whole new level of operability and tool refinement.
@@ -65,6 +67,8 @@ In this script, the name is set to be `OXYGENPRO-XPORT-OBL`.
 
 You can edit the code as you see fit, following license guidelines, to change the name as listed in the controller profiles or to change which messages are handled and add more or change the screen output as needed, etc.
 
+The filename must start with `device_` for FL Studio to parse it and show it in the selection list however.
+
 ## License
 
 GPLv3 accompanying, in this repo.
@@ -74,3 +78,8 @@ GPLv3 accompanying, in this repo.
 ![Options menu](doc/asset/options-menu.png)
 
 ![Debugging log](doc/asset/debugging-log.png)
+
+![MIDI settings window showing the OxyPro49 connected by USB](doc/asset/midi-settings-oxypro49.png)
+
+![MIDI settings selecting the custom script aka profile](doc/asset/custom-profile-selection.png)
+
