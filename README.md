@@ -17,8 +17,9 @@ Inspired by the community scripts for the Oxygen Pro in FL Studio, this reposito
 * [Official Image-Line MIDI Scripting API](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm) - Image-Line's official python framework documentation
 * [M-Audio Oxygen Pro Script by GratuiTous](https://itsgratuitous.com) - see Premium additional scripts and other FL Studio tutorials and books there too.
 * [PotcFdk FL Studio 20 script for the OxyPro49](https://github.com/PotcFdk/FLStudioOxygenPro49) - see also DAW and user presets there as well.
+* [Image-Line forum post about/by GratuiTous](https://forum.image-line.com/viewtopic.php?f=1994&t=253539)
 
-See also Image-Line forums.
+
 
 ## Configuration Tested
 
@@ -68,5 +69,8 @@ You can edit the code as you see fit, following license guidelines, to change th
 
 GPLv3 accompanying, in this repo.
 
+## Screenshots, Misc
 
+![Options menu](doc/asset/options-menu.png)
 
+![Debugging log](doc/asset/debugging-log.png)
